@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460400204249",
+    "project_id": "flutter-memo-app-de574",
+    "storage_bucket": "flutter-memo-app-de574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460400204249:android:488ab6c11c3d60c03b21c8",
+        "android_client_info": {
+          "package_name": "com.ttdios.flutter_memo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_Z2JopRhR5NRqhixIBulwtIAhNShmBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
